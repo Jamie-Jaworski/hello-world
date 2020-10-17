@@ -1,4 +1,4 @@
-# hello-world
+# hi-world
 My first Git repository.
 
 ## Documentation
